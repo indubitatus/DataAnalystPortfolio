@@ -1,1 +1,12 @@
 # DataAnalystPortfolio
+
+| #    | Название проекта | Описание | Стек | Направление |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |----|
+| 1.   | [Исследование продаж видеоигр](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Video%20game%20sales%20research) | На основе данных о продажах видеоигр определить закономерность в успешности игры    | python, pandas, scipy, matplotlib  | Data Analyst |
+| 2.   | [Исследование объявлений о продаже квартир](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Apartment%20sales%20research) | Нужно научиться определять рыночную стоимость объектов недвижимости на основе данных о продаже квартир |  python, pandas, matplotlib | Data Analyst |
+| 3.   | [База данных социальная сеть](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Social%20network%20database) | Создание базы данных для поиск друзей по месту учёбы или работы и написание запросов к ней  | SQL    | SQL |
+| 4.   | [База данных стартап инвестиции](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Investments%20database) | Проанализировать данные о фондах и инвестициях и написать запросы к базе данных | SQL    | SQL |
+| 5.   | [Прогнозирование оттока клиента из банка](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/%D0%A1ustomer%20churn) | На основе данных из банка определить клиент, который может уйти  | python, pandas, scikit-learn, matplotlib       | Машинное обучение, классификация |
+| 6.   | [Выбор наиболее выгодного региона нефтедобычи](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Oil%20well%20selection) | На основе данных о пробе нефти в трёх регионах, выбрать регион, где добыча принесёт наибольшую прибыль   | python, pandas, matplotlib  | Машинное обучение, регрессия |
+| 7.   | [Анализ комментариев на токсичность](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Toxic%20comments) |  Требуется инструмент, который будет искать токсичные комментарии   | python, pandas, nltk  | Машинное обучение, NLP |
+| 8.   | [Прогноз температуры стали во время плавки](https://github.com/indubitatus/DataAnalystPortfolio/tree/main/Steel%20temperature%20prediction) |  Построить модель, которая предскажет температуру стали   | python, pandas, scikit-learn, matplotlib, CatBoost, LGBMRegressor  | Машинное обучение, регрессия |
